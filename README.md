@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 📫 How to reach me **fsonmz@gmail.com**
+- 📫 How to reach me **sfehdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
