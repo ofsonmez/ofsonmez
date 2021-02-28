@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋 adsdsa</h1>
+<h1 align="center">Hi There👋</h1>
 <h3 align="center">I'm Ömer, 26 y.o. and a Full-Stack Web Developer.</h3>
 
 - :house: I'm currently living in **Antalya, Turkey.**
