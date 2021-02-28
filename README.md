@@ -35,5 +35,5 @@
 <p align="left"><a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a>    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"> </a></p>
 
 <p style="display: flex"><img align="left" style="width:40%" src="https://github-readme-stats.vercel.app/api?username=ofsonmez&show_icons=true&locale=en" alt="ofsonmez" />
-<img align="right" style="width:40%" src="https://github-readme-streak-stats.herokuapp.com/?user=ofsonmez&" alt="ofsonmez" />
+<img align="right" style="width:40%; padding-left: 0" src="https://github-readme-streak-stats.herokuapp.com/?user=ofsonmez&" alt="ofsonmez" />
 </p>
