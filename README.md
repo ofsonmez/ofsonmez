@@ -3,8 +3,6 @@
 
 - :house: I'm currently living in **Antalya, Turkey.**
 - 💻 I'm currently working as **a Full-Stack Web Developer.**
-- 🔭 I’m currently working on **our online 2D game project.**
-- 🌱 I’m currently learning **unity.**
 - 👯 I’m looking to collaborate on **open source projects.**
 - 🤝 I’m looking for help to **improve my projects.**
 - 📝 I regularly write articles on [my medium page.](https://medium.com/@sfehdev)
