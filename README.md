@@ -1,11 +1,10 @@
 <h1 align="center">Hi There👋 I'm Ömer</h1>
-<h3 align="center">I'm a Full-Stack Web Developer.</h3>
+<h3 align="center">I'm a Full-Stack Software Developer.</h3>
 
 - :house: I'm currently living in **Antalya, Turkey.**
-- 💻 I'm currently working as **a Full-Stack Web Developer.**
+- 💻 I'm currently working as **a Full-Stack Software Developer.**
 - 👯 I’m looking to collaborate on **open source projects.**
 - 🤝 I’m looking for help to **improve my projects.**
-- 📝 I regularly write articles on [my medium page.](https://medium.com/@sfehdev)
 - 📫 How to reach me **sfehdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -39,4 +38,6 @@
 <h3 align="left">Game Engines and Others:</h3>
 <p align="left"><a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a>    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ofsonmez&show_icons=true&locale=en" alt="ofsonmez" /></p>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ofsonmez&show_icons=true&locale=en" alt="ofsonmez" /></p> -->
+<!-- - 📝 I regularly write articles on [my medium page.](https://medium.com/@sfehdev) -->
